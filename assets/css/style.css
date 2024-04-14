@@ -1,3 +1,14 @@
+#body {
+    background-color: #1f1f1e;
+}
+
+.bg_text_navy {
+    color: navy;
+}
+
+.bg_blue {
+    background-color: #caebed !important;
+}
 .social-icons-header {
     padding: 5px;
     font-size: large;
@@ -5,4 +16,16 @@
 
 .features_offered {
     text-align: center;
+}
+
+#featured-3 {
+    width: 100%;
+}
+
+.hero-section {
+    position: relative;
+}
+
+.rounded {
+    border-radius: 100px !important; 
 }
